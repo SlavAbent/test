@@ -6,9 +6,9 @@
 
 К сожалению со Vue мало работал, специализируюсь в основном на react-стеке, но могу предположить, что необнодимо сделать так, как сказано в документации:
 
-<template v-for="i of count" :key="i">
-  <component-name v-if="i < 10" />
-</template>
+//<template v-for="i of count" :key="i">
+//  <component-name v-if="i < 10" />
+//</template>
 
 # 3. 
 
