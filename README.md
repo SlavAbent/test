@@ -6,7 +6,7 @@
 
 К сожалению со Vue мало работал, специализируюсь в основном на react-стеке, но могу предположить, что необнодимо сделать так, как сказано в документации:
 
-перенести из component-name в template v-for="i o count" и :key="i"
+перенести из component-name в template v-for="i of count" и :key="i"
 
 
 # 3. 
